@@ -1,0 +1,15 @@
+.btn {
+    border-radius: 0.75rem;
+    border: 1px solid var(--Color-black);
+
+    background: var(--Color-primary);
+
+    color: var(--Color-white);
+
+    width: 7.125rem;
+    height: 2.4375rem;
+}
+
+.btn:hover {
+    background: var(--Color-primary-Hover);
+}

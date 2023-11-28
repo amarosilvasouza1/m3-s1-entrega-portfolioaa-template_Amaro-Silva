@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.Header_conteiner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 1.8rem;
+    width: 64%;
+}
+
+.title_Header {
+    color: var(--Color-white);
+}
+
+.Nav_bar {
+    gap: 4rem;
+    margin-top: 0.4rem;
+    display: flex;
+}
+
+.link_Header a {
+    text-decoration: none;
+    color: var(--Color-white);
+
+    font-weight: var(--Title-3-w);
+}

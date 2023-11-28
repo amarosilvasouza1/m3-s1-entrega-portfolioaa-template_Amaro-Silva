@@ -1,0 +1,80 @@
+
+.section_conteiner {
+    display: flex;
+    justify-content: center;
+}
+
+.projects_conteiner {
+    width: 64%;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.card_conteiner_projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.title_projects {
+    color: var(--Color-white);
+    font-size: var(--Title-2-s);
+    font-weight: var(--Title-2-w);
+}
+
+.card_project {
+    width: 33.4375rem;
+    height: 13.4375rem;
+
+    margin-top: 3rem;
+    
+    border-radius: 1.5625rem;
+    border: 2px solid rgba(255, 255, 255, 0.50);
+}
+
+.card_project:hover {
+    background-color: rgba(203, 201, 201, 0.023);
+}
+
+.info_card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title_card {
+    color: var(--Color-white);
+
+    margin-left: 2.06rem;
+    margin-top: 1.69rem ;
+
+    font-size: var(--Title-3-s) ;
+    font-weight: var(--Title-3-w) ;
+}
+
+.icon_card {
+    margin-top: 1rem;
+    margin-right: 1.31rem;
+}
+
+.Project_description {
+    color: var(--Color-white);
+
+    margin-left: 2.06rem;
+    margin-top: 1.69rem;
+    margin-bottom: 2.50rem;
+
+    font-size: var(--p-font-s) ;
+    font-weight: var(--p-font-w) ;
+}
+
+.links_project {
+    color: #6880FF;
+
+    font-size: var(--link-s) ;
+    font-weight: var(--link-w) ;
+
+    margin-left: 2.06rem;
+    text-decoration: none;
+}

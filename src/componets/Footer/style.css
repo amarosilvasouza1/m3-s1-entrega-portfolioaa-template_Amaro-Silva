@@ -1,0 +1,52 @@
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner_footer {
+    width: 64%;
+
+    border-top: 2px solid var(--Color-white);
+    border-bottom: 2px solid var(--Color-white);
+
+    margin-bottom: 1.75rem;
+    margin-top: 3.95rem;
+}
+
+.conteiner_info-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title_footer {
+    color: var(--Color-white);
+
+    font-size: var(--Title-2-s);
+    font-weight: var(--Title-2-w);
+
+    margin-top: 3.13rem;
+}
+
+.direitos_footer {
+    color: var(--Color-white);
+
+    font-size: var(--p-font-s);
+    font-weight: var(--p-font-w);
+
+    margin-top: 6rem;
+    margin-bottom: 1rem;
+}
+
+.img_conteiner_footer {
+    gap: 1rem;
+
+}
+
+.img_footer {
+    width: 1.125rem;
+    height: 1.1875rem;
+
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    margin-right: 1rem;
+}

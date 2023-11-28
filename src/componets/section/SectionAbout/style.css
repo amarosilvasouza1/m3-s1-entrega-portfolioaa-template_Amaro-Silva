@@ -1,0 +1,40 @@
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 4.7rem;
+}
+
+.about_conteiner {
+    width: 64%;
+
+    display: flex;
+
+    gap: 4.36rem;
+}
+
+.title_about {
+    color: var(--Color-white);
+
+    font-size: var(--Title-2-s);
+    font-weight: var(--Title-2-w);
+
+    word-break: break-all;
+    
+    width: 40%;
+
+    margin-left: 3px;
+}
+
+.info_about {
+    color: var(--Color-white);
+
+    font-size: var(--p-font-s);
+    font-weight: var(--p-font-w);
+    line-height: 1.5rem;
+
+
+    width: 70%;
+    margin-left: 2rem;
+}

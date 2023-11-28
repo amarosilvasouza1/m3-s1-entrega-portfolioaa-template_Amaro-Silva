@@ -1,0 +1,53 @@
+.welcome_conteiner {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 8rem;
+}
+
+.welcome {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 64%;
+    height: 16.8035rem;
+}
+
+.Welcome_info {
+    width: 27.362rem;
+    height: 16.6035rem;
+}
+
+.Welcome_info span {
+    margin-top: 25px;
+    color: var(--Color-primary);
+}
+
+.title_welcome {
+    color: var(--Color-white);
+    font-size: var(--Title-1-s);
+    font-weight: var(--Title-1-w);
+
+    margin-bottom: 33px;
+    margin-top: 15px;
+
+    word-wrap: break-word;
+
+    width: 80%;
+}
+
+.paragaphro_welcome {
+    color: var(--Color-white);
+    
+    font-size:medium;
+    font-weight: var(--p-font-w);
+
+    margin-bottom: 33px;
+}
+
+.welcome-img {
+    width: 27.362rem;
+
+    margin-right: 19px;
+}

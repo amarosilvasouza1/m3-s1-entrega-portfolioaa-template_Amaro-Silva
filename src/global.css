@@ -1,0 +1,30 @@
+:root {
+
+    --Color-primary: #6880FF;
+    --Color-primary-Hover: #7C91FF;
+    --Color-black: #000;
+    --Color-white: #fff;
+
+    --Title-1-w: bold;
+    --Title-1-s: 48px;
+
+    --Title-2-w: bold;
+    --Title-2-s: 40px;
+
+    --Title-3-w: bold;
+    --Title-3-s: 22px;
+
+    --Label-font-w: medium;
+    --Label-font-s: 14px;
+
+    --link-w: bold;
+    --link-s: 16px;
+
+    --p-font-w: medium;
+    --P-font-s: 16px;
+}
+
+body {
+    background-color: #0c0c0c;
+    font-family: 'Inter', sans-serif;
+}

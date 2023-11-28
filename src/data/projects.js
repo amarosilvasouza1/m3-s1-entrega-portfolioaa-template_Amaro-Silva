@@ -1,18 +1,22 @@
 export const projects = [
   {
-    name: "Projeto 1",
-    description: "Atividade Props Card Pessoas",
+    name: "Open Musica",
+    description: "Sait de vendas de cd de vinil",
+    link: "https://github.com/Kenzie-Academy-Brasil-Developers/m2-open-music-template-AmaroSilva",
   },
   {
-    name: "Projeto 2",
-    description: "Atividade Praticando Children",
+    name: "Site Instituciona",
+    description: "Sait de vendas de curso online",
+    link: "https://github.com/Kenzie-Academy-Brasil-Developers/m2-site-instituciona-generico_AmaroSilva",
   },
   {
-    name: "Projeto 3",
-    description: "Descrição do projeto",
+    name: "Rede social",
+    description: "Sait de rede social",
+    link: "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-criando-rede-social-AmaroSilva",
   },
   {
-    name: "Projeto 4",
-    description: "Descrição do projeto",
+    name: "Lista de tarefa",
+    description: "Um gerenciador de tarefas",
+    link: "https://github.com/Kenzie-Academy-Brasil-Developers/m2-lista-de-tarefas_Amaro-silva",
   },
 ];
