@@ -22,7 +22,6 @@ const Header = () => {
                     </p>
                 </nav>
                 <a href="#footer"><button className='btn'>Contato</button></a>
-                
             </div>
         </header>
     )

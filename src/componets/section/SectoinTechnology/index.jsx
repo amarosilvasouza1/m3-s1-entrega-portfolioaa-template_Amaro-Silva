@@ -14,7 +14,6 @@ const SectoinTechnology = () => {
                     <h2 className='title_technology'>Tecnologias</h2>
                 </div>
                 <ul className='card_technologys_conteiner'>
-                            {/* simplesmente bugou e nao rederizava nada  */}
                     {/* {technologies((el) => (
                         <li className='card_technology'>
                             <img className='img_technology' src= {el.img} alt="html icon"/>
